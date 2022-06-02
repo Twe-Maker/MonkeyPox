@@ -1,10 +1,11 @@
 # MonkeyPox
+An ongoing outbreak of monkeypox was confirmed on 6 May 2022, beginning with a British resident. Show the spread of monkeypox and with its few symptoms.
 
-
+Project to demonstrate data manipulation with python.
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
 pip install foobar
