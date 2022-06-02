@@ -3,9 +3,6 @@ An ongoing outbreak of monkeypox was confirmed on 6 May 2022, beginning with a B
 
 Project to demonstrate data manipulation with python.
 
-# Graph
-{% include Symptoms.html %}
-
 ## Installation
 
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
