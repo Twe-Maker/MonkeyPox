@@ -8,7 +8,6 @@ Project to demonstrate data manipulation with python.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install.
 
 ```bash
-pip install foobar
 pip install pandas
 pip install numpy
 pip install plotly
