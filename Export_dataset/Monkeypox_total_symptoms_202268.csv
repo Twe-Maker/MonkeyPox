@@ -1,0 +1,36 @@
+,Symptoms,Country,Symptoms_count,Country_ISO3
+0,blisters,Finland,1,FIN
+1,blisters,Italy,1,ITA
+2,chills,Czech Republic,1,CZE
+3,cough,Germany,1,DEU
+4,fatigue,Czech Republic,1,CZE
+5,fever,Argentina,1,ARG
+6,fever,Austria,1,AUT
+7,fever,Czech Republic,1,CZE
+8,fever,Norway,1,NOR
+9,fever,Switzerland,1,CHE
+10,fever,Germany,2,DEU
+11,fever,Canada,17,CAN
+12,genital rash,Australia,1,AUS
+13,genital ulcer lesions,Canada,30,CAN
+14,genital ulcers,Canada,5,CAN
+15,headache,Czech Republic,1,CZE
+16,high fever,Finland,1,FIN
+17,lesions,Austria,1,AUT
+18,lesions,Italy,1,ITA
+19,muscle pain,Norway,1,NOR
+20,oral and genital ulcers,Canada,17,CAN
+21,perianal papules; inguinal adenopathy,Belgium,1,BEL
+22,pustules,Argentina,1,ARG
+23,rash,Norway,1,NOR
+24,rash,Switzerland,1,CHE
+25,rash,England,2,GBR
+26,skin lesions,Czech Republic,1,CZE
+27,skin lesions,Germany,1,DEU
+28,skin lesions,Italy,1,ITA
+29,skin lesions,Portugal,5,PRT
+30,skin rashes,Germany,1,DEU
+31,slight swallowing difficulties and an elevated temperature,Germany,1,DEU
+32,ulcerative lesions,Argentina,1,ARG
+33,ulcerative lesions,Portugal,20,PRT
+34,vesicular rash,England,5,GBR
