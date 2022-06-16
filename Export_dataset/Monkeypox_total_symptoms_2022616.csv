@@ -1,0 +1,52 @@
+,Symptoms,Country,Symptoms_count,Country_ISO3
+0,an elevated temperature,Germany,1,DEU
+1,back pain,Argentina,1,ARG
+2,blisters,Finland,1,FIN
+3,blisters,Italy,1,ITA
+4,chills,Czech Republic,1,CZE
+5,chills,United States,1,USA
+6,cough,Germany,1,DEU
+7,cough,United States,1,USA
+8,enlarged lymph nodes,Brazil,1,BRA
+9,fatigue,Czech Republic,1,CZE
+10,fever,Argentina,1,ARG
+11,fever,Austria,1,AUT
+12,fever,Czech Republic,1,CZE
+13,fever,Italy,1,ITA
+14,fever,Norway,1,NOR
+15,fever,Switzerland,1,CHE
+16,fever,Brazil,2,BRA
+17,fever,Germany,2,DEU
+18,fever,Canada,17,CAN
+19,genital rash,Australia,1,AUS
+20,genital ulcer lesions,Canada,30,CAN
+21,genital ulcers,Canada,22,CAN
+22,headache,Argentina,1,ARG
+23,headache,Czech Republic,1,CZE
+24,headaches,Brazil,1,BRA
+25,high fever,Finland,1,FIN
+26,inguinal adenopathy,Belgium,1,BEL
+27,lesions,Austria,1,AUT
+28,lesions,Italy,1,ITA
+29,muscle pain,Argentina,1,ARG
+30,muscle pain,Norway,1,NOR
+31,muscle pain,United States,1,USA
+32,myalgia,Brazil,1,BRA
+33,oral,Canada,17,CAN
+34,perianal papules,Belgium,1,BEL
+35,pustule-like lesions,United States,1,USA
+36,pustules,Argentina,1,ARG
+37,rash,Norway,1,NOR
+38,rash,Switzerland,1,CHE
+39,rash,England,2,GBR
+40,skin lesions,Czech Republic,1,CZE
+41,skin lesions,Germany,1,DEU
+42,skin lesions,Brazil,2,BRA
+43,skin lesions,Italy,3,ITA
+44,skin lesions,Portugal,5,PRT
+45,skin rashes,Germany,1,DEU
+46,slight swallowing difficulties,Germany,1,DEU
+47,ulcerative lesions,Argentina,1,ARG
+48,ulcerative lesions,Portugal,20,PRT
+49,vasicular rashes,Argentina,1,ARG
+50,vesicular rash,England,5,GBR
