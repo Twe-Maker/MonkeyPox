@@ -36,6 +36,3 @@ Please make sure to update tests as appropriate.
 
 ## Credit
 Main source data from https://github.com/globaldothealth/monkeypox
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
