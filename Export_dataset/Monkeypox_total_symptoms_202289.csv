@@ -1,0 +1,137 @@
+,Symptoms,Country,Symptoms_count,Country_ISO3
+0,an elevated temperature,Germany,1,DEU
+1,asthenia,Argentina,1,ARG
+2,back pain,Argentina,1,ARG
+3,blisters,Czech Republic,1,CZE
+4,blisters,Finland,1,FIN
+5,blisters,India,1,IND
+6,blisters,Italy,1,ITA
+7,blisters on limbs,Thailand,1,THA
+8,body pains,Barbados,1,BRB
+9,characteristic symptoms of monkeypox,Argentina,1,ARG
+10,chills,Czech Republic,1,CZE
+11,chills,United States,1,USA
+12,cough,Germany,1,DEU
+13,cough,United States,1,USA
+14,diarrhea,Taiwan,1,TWN
+15,encephalitis,Spain,2,ESP
+16,enlarged lymph nodes,Brazil,1,BRA
+17,fatigue,Japan,1,JPN
+18,fatigue,Mexico,1,MEX
+19,fatigue,Singapore,1,SGP
+20,fatigue,South Africa,1,ZAF
+21,fatigue,Dominican Republic,2,DOM
+22,fatigue,Czech Republic,4,CZE
+23,fever,Barbados,1,BRB
+24,fever,Bulgaria,1,BGR
+25,fever,Ecuador,1,ECU
+26,fever,Italy,1,ITA
+27,fever,Netherlands,1,NLD
+28,fever,Norway,1,NOR
+29,fever,Switzerland,1,CHE
+30,fever,Thailand,1,THA
+31,fever,Austria,2,AUT
+32,fever,Brazil,2,BRA
+33,fever,Germany,2,DEU
+34,fever,India,2,IND
+35,fever,Saudi Arabia,2,SAU
+36,fever,Taiwan,2,TWN
+37,fever,Czech Republic,3,CZE
+38,fever,Dominican Republic,3,DOM
+39,fever,Argentina,4,ARG
+40,fever,Singapore,7,SGP
+41,fever,Canada,17,CAN
+42,general discomfort,Ecuador,1,ECU
+43,genital rash,Australia,1,AUS
+44,genital rashes,Singapore,1,SGP
+45,genital ulcer lesions,Canada,30,CAN
+46,genital ulcers,Canada,22,CAN
+47,genitals,Thailand,1,THA
+48,headache,Czech Republic,1,CZE
+49,headache,Japan,1,JPN
+50,headache,Mexico,1,MEX
+51,headache,South Korea,1,KOR
+52,headache,Dominican Republic,2,DOM
+53,headache,Singapore,2,SGP
+54,headache,Argentina,3,ARG
+55,headaches,Brazil,1,BRA
+56,high fever,Finland,1,FIN
+57,inguinal adenopathy,Belgium,1,BEL
+58,isolated skin lesions,Germany,1,DEU
+59,itching,Mexico,1,MEX
+60,lesions,Austria,1,AUT
+61,lesions,Costa Rica,1,CRI
+62,lesions,Italy,1,ITA
+63,lesions,Singapore,1,SGP
+64,lesions,South Korea,1,KOR
+65,lower abdomen skin lesions,Singapore,1,SGP
+66,lymphadenopathy,Singapore,1,SGP
+67,malaise,Argentina,1,ARG
+68,mild fever,South Korea,1,KOR
+69,mild symptoms,Argentina,1,ARG
+70,muscle ache,South Africa,1,ZAF
+71,muscle pain,Argentina,1,ARG
+72,muscle pain,Norway,1,NOR
+73,muscle pain,United States,1,USA
+74,myalgia,Argentina,1,ARG
+75,myalgia,Brazil,1,BRA
+76,myalgia,Singapore,1,SGP
+77,myalgias,Japan,1,JPN
+78,myalgias,Mexico,1,MEX
+79,myalgias,Thailand,1,THA
+80,oral,Canada,17,CAN
+81,pain urinating,Czech Republic,1,CZE
+82,papules,Mexico,1,MEX
+83,perianal papules,Belgium,1,BEL
+84,perianal rash,Singapore,2,SGP
+85,postules,Argentina,1,ARG
+86,postules,Thailand,1,THA
+87,pustule-like lesions,United States,1,USA
+88,pustules,Argentina,1,ARG
+89,rash,Austria,1,AUT
+90,rash,Barbados,1,BRB
+91,rash,Bulgaria,1,BGR
+92,rash,Czech Republic,1,CZE
+93,rash,Mexico,1,MEX
+94,rash,Norway,1,NOR
+95,rash,South Africa,1,ZAF
+96,rash,Switzerland,1,CHE
+97,rash,England,2,GBR
+98,rash,Saudi Arabia,2,SAU
+99,rash,Singapore,2,SGP
+100,rash,Taiwan,2,TWN
+101,rash,Chile,13,CHL
+102,rash on the skin,Iceland,2,ISL
+103,rashes in the groin area,Singapore,1,SGP
+104,rashes in the perianal region,Singapore,1,SGP
+105,rashes typical of monkeypox,Singapore,1,SGP
+106,scabs on the skin,Argentina,1,ARG
+107,skin lesions,Czech Republic,1,CZE
+108,skin lesions,Germany,1,DEU
+109,skin lesions,India,1,IND
+110,skin lesions,Netherlands,1,NLD
+111,skin lesions,Brazil,2,BRA
+112,skin lesions,Italy,3,ITA
+113,skin lesions,Portugal,5,PRT
+114,skin manifestations,Czech Republic,4,CZE
+115,skin rashes,Germany,1,DEU
+116,skin rashes,Singapore,1,SGP
+117,skin scabs,Chile,1,CHL
+118,slight swallowing difficulties,Germany,1,DEU
+119,sore throat,Czech Republic,1,CZE
+120,sore throat,South Korea,1,KOR
+121,sore throat,Taiwan,1,TWN
+122,spots on skin,Chile,1,CHL
+123,swelling,Taiwan,1,TWN
+124,swelling of lymph nodes,Germany,1,DEU
+125,swollen lymph nodes,Argentina,1,ARG
+126,swollen lymph nodes,Singapore,1,SGP
+127,symptoms compatible with monkeypox,Cyprus,1,CYP
+128,three lesions typical of monkeypox,Panama,1,PAN
+129,ulcerative lesions,Argentina,1,ARG
+130,ulcerative lesions,Portugal,20,PRT
+131,vasicular rashes,Argentina,1,ARG
+132,vesicles,Ecuador,2,ECU
+133,vesicuated lesions,Chile,1,CHL
+134,vesicular rash,Argentina,1,ARG
+135,vesicular rash,England,5,GBR
